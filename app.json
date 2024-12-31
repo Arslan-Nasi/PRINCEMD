@@ -1,8 +1,8 @@
 {
-  "name": "PRINCEMD",
+  "name": "✪⏤͟͞★⃝ī.am ꪶ𝐶𝑌𝐵𝛯𝑅 𝐿𝛯𝐺𝛯𝛮𝐷👑➺",
   "description": "whatsapp user bot",
   "repository": "https://github.com/DASTAGHIR/PRINCEMD",
-  "logo": "https://qu.ax/igJFS.png",
+  "logo": "https://i.ibb.co/Gv5hHPx/SXRs-TGzu2474.jpg",
   "success_url": "https://github.com/DASTAGHIR/PRINCEMD",
   "keywords": [
     "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
@@ -19,12 +19,12 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-MD"
+      "value": "✪⏤͟͞★⃝ī.am ꪶ𝐶𝑌𝐵𝛯𝑅 𝐿𝛯𝐺𝛯𝛮𝐷👑➺"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "9230926680000,❣️PRINCE THE DEVELOPER"
+      "value": "923277217945,✪⏤͟͞★⃝ī.am ꪶ𝐶𝑌𝐵𝛯𝑅 𝐿𝛯𝐺𝛯𝛮𝐷👑➺"
     },
     "MODE": {
       "description": "choose bot mode public or private",
@@ -39,17 +39,17 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "DATABASE_URL": {
       "description": "put mongodb or postgres or princedb database url for bots better performance",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://arslan:mian@king.ybszpfo.mongodb.net/?retryWrites=true&w=majority&appName=King"
     },
     "ANTI_LINK": {
       "description": "it will dlt links and kick user",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AutoReaction": {
       "description": "make it true to react on chats",
@@ -69,7 +69,7 @@
     "REJECTSCALLS": {
       "description": "reject calls",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "ANTIFAKE_USERS": {
       "description": "add antifake numbers bot wont let them to join group for all numbers 1,2,3,4,5,6,7,8,9 like this",
@@ -79,12 +79,12 @@
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Princebot🎗️❣️"
+      "value": "✪⏤͟͞★⃝ī.am ꪶ𝐶𝑌𝐵𝛯𝑅 𝐿𝛯𝐺𝛯𝛮𝐷👑➺"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "_*📥DOWNLOADED SUCCESSFULLY✅*_"
+      "value": "_*📥DOWNLOADED SUCCESSFULLY✅*By_✪⏤͟͞★⃝ī.am ꪶ𝐶𝑌𝐵𝛯𝑅 𝐿𝛯𝐺𝛯𝛮𝐷👑➺_"
     } 
   },
   "buildpacks": [
